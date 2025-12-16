@@ -1,0 +1,29 @@
+body{ 
+    font-family: 'Arial', sans-serif;
+    background-color: #a7dacd;
+    color: #0e0e0e;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    text-align: center;
+}
+.box{
+    border: 3px solid #000000;
+    padding: 15px;
+    margin: 20px;
+}
+.topbar{
+    background-color: #efeaf0;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+.wrap{
+    margin: 0 auto;
+    max-width: 1200px;
+}
